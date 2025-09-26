@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1758823013 source:d:\downloads\list\main.cpp
+	<iostream>
+	"List.h"
+
+1758822795 d:\downloads\list\list.h
+	<iostream>
+

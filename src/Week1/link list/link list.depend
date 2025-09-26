@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1758866955 source:d:\downloads\link list\main.cpp
+	<iostream>
+	"linklist.h"
+
+1758867003 d:\downloads\link list\linklist.h
+	<iostream>
+	<vector>
+	<algorithm>
+
