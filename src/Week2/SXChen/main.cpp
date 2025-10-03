@@ -26,7 +26,7 @@ int main() {
 
     SXChen(a, n);
 
-    cout << "Mang sau khi Insertion Sort: ";
+    cout << "Mang sau khi SXChen: ";
     for (int i = 0; i < n; i++) {
         cout << a[i] << " ";
     }
